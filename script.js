@@ -45,7 +45,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   
-  // Botón shickat.me - redirigir a https://shickat.me
   if (btnWiki) {
     btnWiki.addEventListener('click', function() {
       console.log('Wiki button clicked!');
@@ -56,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (btnWikii) {
     btnWikii.addEventListener('click', function() {
       console.log('Wiki button clicked!');
-      window.open('https://shickat.me', '_blank');
+      window.open('https://shickat.blog', '_blank');
     });
   }
   
