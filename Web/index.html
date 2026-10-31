@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Wiki Shickat</title>
+  <link rel="icon" type="image/png" href="Logos/logo_wiki.png">
+  <link rel="stylesheet" href="styles.css?v=13">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <!-- NAVIDAD (DESCOMENTAR EN EPOCAS)
+  <link rel="stylesheet" href="Navidad/styles.css"> -->
+  <!-- HALLOWEEN - Tema temporal (comentar estos enlaces al terminar la temporada) -->
+  <link rel="stylesheet" href="Halloween/styles.css">
+  <!-- MUNDIAL - Sistema de notificaciones de partidos (DESCOMENTAR PARA ACTIVAR) -->
+  <link rel="stylesheet" href="Mundial/notificador.css">
+  <script src="Mundial/notificador.js?v=13"></script>
+  <script src="language.js?v=13"></script>
+  <script>(function(s){s.dataset.zone='11220714',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+</head>
+
+<body>
+  <div id="ads" class="adsbygoogle" style="height:1px; width:1px;"></div>
+  
+
+  <!-- ENCABEZADO -->
+  
+  <header>
+    <div class="floating-actions">
+      <a href="#" onclick="abrirModalTelegram(); return false;" class="telegram-link" aria-label="Abrir grupo de Telegram">
+        <i class="fa-brands fa-telegram"></i>
+      </a>
+      <a href="#" onclick="abrirModalApp(); return false;" class="app-link" aria-label="Descargar la app">
+        <i class="fa-solid fa-download"></i>
+      </a>
+      <!--<a href="#" onclick="abrirModalAds(); return false;" class="ads-link" aria-label="Ver recompensa">
+        <i class="fa-solid fa-rectangle-ad"></i>
+      </a>-->
+    </div>
+    <div class="logo-container">
+      <div class="logo-wrapper">
+        <img id="logo-img" src="Logos/none.png" alt="Logo" class="logo-circular">
+        <!-- <img src="Navidad/gorro.png" class="gorro-navidad"> Prueba -->
+      </div>
+    </div>
+    <h1>Wiki Shickat</h1>
+    <div class="header-actions">
+    <div class="theme-toggle" id="theme-toggle" title="Cambiar tema">
+      <i class="fa-solid fa-moon"></i>
+      <div class="toggle-slider">
+        <div class="toggle-ball"></div>
+      </div>
+      <i class="fa-solid fa-sun"></i>
+    </div>
+    </div>
+    <div class="buscador-wrapper">
+      <input type="text" id="buscador" placeholder="Buscar..." autocomplete="off">
+      <i class="fa-solid fa-magnifying-glass"></i>
+    </div>
+    <div class="filter-wrapper" id="filter-wrapper">
+      <label>Filtrar por idioma:</label>
+      <div class="language-checkboxes" id="language-checkboxes">
+        <!-- checkboxes se rellenan dinámicamente -->
+      </div>
+    </div>
+    <div class="filter-wrapper" id="category-filter-wrapper">
+      <label>Filtrar por categoría:</label>
+      <div class="category-checkboxes" id="category-checkboxes">
+        <!-- checkboxes se rellenan dinámicamente -->
+      </div>
+    </div>
+  </header>
+
+
+  <!-- CONTENIDO PRINCIPAL-->
+
+  <main class="main-content">
+    <div id="no-results" class="no-results" style="display:none;">
+      <p class="no-results-text">No hay resultados disponibles con los filtros aplicados.</p>
+      <button id="clear-filters-btn" class="clear-filters-btn">Limpiar filtros</button>
+    </div>
+
+    <!-- FAVORITOS -->
+
+    <section class="category-section">
+      <h2 class="category-title" data-original="FAVORITOS">FAVORITOS</h2>
+      <div class="canal-list" id="canal-list-favoritos">
+        <!-- Los favoritos se rellenan dinámicamente -->
+      </div>
+    </section>
+
+    <div id="canales-container" aria-live="polite">
+      <!-- Las categorías y tarjetas se cargan desde data/canales.json -->
+    </div>
+
+  </main>
+
+  
+
+
+  <!-- PIE -->
+  <!--
+  <footer class="footer">
+    <i class="fa-solid fa-info-circle"></i> Los canales van a dejar de funcionar a partir de principios de febrero. Entra al grupo de Telegram para que estés informado sobre todo de AceStream y más.
+  </footer> -->
+
+
+  <!-- VENTANA GRUPO TELEGRAM -->
+
+  <div id="telegram-modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <img src="Logos/logo_telegram.jpg" alt="Logo del grupo de Telegram" class="modal-logo">
+      <p class="requisitos-text">Para unirte al grupo, necesitas cumplir con estos requisitos:</p>
+      <ul class="requisitos-list">
+        <li>Tener una foto de perfil visible</li>
+        <li>Tener un nombre de usuario (@usuario) público</li>
+        <li>Ambos deben estar visibles para todos los miembros</li>
+      </ul>
+      <a href="https://t.me/+an-mou-XW-JhZWE0" target="_blank" rel="noopener noreferrer" class="modal-btn">Solicitar Entrar</a>
+    </div>
+  </div>
+  <div id="notification" class="notification"></div>
+
+  <!-- VENTANA APP -->
+
+  <div id="app-modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <img src="Logos/logo_wiki.png" alt="Logo de la aplicación Wiki" class="modal-logo">
+      <p class="requisitos-text">WIKI SHICKAT APP</p>
+      <p class="requisitos-subtext">Lleva la wiki sin abrir el navegador y recibe contenido actualizado.</p>
+      <p class="requisitos-subtext">Cóodigo Downloader: <i>7775054</i></p>
+      <i><p class="requisitos-subtext">Version v2.2</p></i>
+      <a href="https://www.mediafire.com/folder/98t4c84em90lf/Wiki_Shickat" target="_blank" rel="noopener noreferrer" class="modal-btn">Descargar</a>
+    </div>
+  </div>
+  <div id="notification" class="notification"></div>
+
+  <!-- VENTANA ANUNCIOS/RECOMPENSA -->
+  
+  <div id="ads-modal" class="modal">
+    <div class="modal-content ads-modal-content">
+      <span class="close">&times;</span>
+      <p class="requisitos-text" id="ads-title">APOYANOS</p>
+      <div class="progress-bar-container">
+        <div class="progress-bar">
+          <div class="progress-fill" id="progress-fill-1"></div>
+          <div class="progress-fill" id="progress-fill-2"></div>
+          <div class="progress-fill" id="progress-fill-3"></div>
+        </div>
+      </div>
+      <div id="ads-message" class="ads-message">Completa 3 visualizaciones para apoyarnos</div>
+      <button id="ads-btn" class="modal-btn ads-view-btn" onclick="verAnuncio()">Ver</button>
+    </div>
+  </div>
+
+
+
+<!---
+  <div class="aviso-pruebas">
+    <i class="fas fa-exclamation-triangle"></i>
+    Guarda el enlace de esta web <a href="https://shickat.online">shickat.online</a> ya que <s>shickat.me</s> ya no funcionará
+  </div>
+-->
+
+  <!-- ----------------------  -->
+  <script src="script.js?v=13"></script>
+  <script src="detectAdblock.js?v=13"></script>
+  <!-- NAVIDAD (DESCOMENTAR EN EPOCAS)
+  <script src="Navidad/script.js"></script> -->
+  <!-- HALLOWEEN - Tema temporal (comentar este script al terminar la temporada) -->
+  <script src="Halloween/script.js"></script>
+</body>
+</html>

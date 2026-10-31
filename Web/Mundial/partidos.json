@@ -1,0 +1,667 @@
+{
+  "canales": {
+    "DAZN1": [
+      "acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb",
+      "acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065",
+      "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
+      "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+      "acestream://19f28f60c908f987b1a03da078e63320d7bf29e8",
+      "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+    ],
+    "DAZN2": [
+      "acestream://085afc93f3c502fb31fb79253ebc58e5a8949e84",
+      "acestream://635b61c1f240449163260cd914d10d886a54fee3",
+      "acestream://465075c02b7284f564911bd63d1c6f0a8d464be7"
+    ]
+  },
+  "partidos": [
+    {
+      "id": 1,
+      "equipo1": "México",
+      "equipo2": "Sudáfrica",
+      "fecha": "2026-06-11",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=bpdu2bbnouj2pzegwuadv0f75_image-header_pEs_1781086963000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 2,
+      "equipo1": "Corea del Sur",
+      "equipo2": "Checa",
+      "fecha": "2026-06-12",
+      "hora": "4:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=c1kwwn6zkno0hpvpngmwkiibb_image-header_pEs_1780564676000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 3,
+      "equipo1": "Canadá",
+      "equipo2": "Bosnia y Herzegovina",
+      "fecha": "2026-06-12",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=4117zq5rmse6x7sohxxj4vofl_image-header_pEs_1780564747000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 4,
+      "equipo1": "Estados Unidos",
+      "equipo2": "Paraguay",
+      "fecha": "2026-06-13",
+      "hora": "3:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=bx12oc0f6c6lnppzlczbp9nfd_image-header_pEs_1780564805000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 5,
+      "equipo1": "Catar",
+      "equipo2": "Suiza",
+      "fecha": "2026-06-13",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8oj5ldu8ycjte061xhmhgseh6_image-header_pEs_1780564870000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 6,
+      "equipo1": "Brasil",
+      "equipo2": "Marruecos",
+      "fecha": "2026-06-14",
+      "hora": "0:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=6cww872z8ugdcojoyju7uzmi0_image-header_pEs_1780564925000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 7,
+      "equipo1": "Haití",
+      "equipo2": "Escocia",
+      "fecha": "2026-06-14",
+      "hora": "3:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=b0lnrez5sbw7eklg0tl0b3d95_image-header_pEs_1780564975000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 8,
+      "equipo1": "Australia",
+      "equipo2": "Turquía",
+      "fecha": "2026-06-14",
+      "hora": "6:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=3ncstzrbycobnzxahzddydv8i_image-header_pEs_1780565040000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 9,
+      "equipo1": "Alemania",
+      "equipo2": "Curazao",
+      "fecha": "2026-06-14",
+      "hora": "19:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8izwbg4bo54prsx7tfxfii0cr_image-header_pEs_1780564790000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 10,
+      "equipo1": "Países Bajos",
+      "equipo2": "Japón",
+      "fecha": "2026-06-14",
+      "hora": "22:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=18cda0cc54kjct1k9kl1u2iwl_image-header_pEs_1780564927000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 11,
+      "equipo1": "Costa de Marfil",
+      "equipo2": "Ecuador",
+      "fecha": "2026-06-15",
+      "hora": "1:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=2fzsjahymh5zetznnf64r7b73_image-header_pEs_1780565019000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 12,
+      "equipo1": "Suecia",
+      "equipo2": "Túnez",
+      "fecha": "2026-06-15",
+      "hora": "4:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=eqt82cqnwvt85xx128t22neht_image-header_pEs_1780565123000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 13,
+      "equipo1": "España",
+      "equipo2": "Cabo Verde",
+      "fecha": "2026-06-15",
+      "hora": "18:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=515yaqdtivi0f579n726684x2_image-header_pEs_1780565207000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 14,
+      "equipo1": "Bélgica",
+      "equipo2": "Egipto",
+      "fecha": "2026-06-15",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=2yw8vkcf6qurm0zmzfhdy7th2_image-header_pEs_1780565353000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 15,
+      "equipo1": "Arabia Saudita",
+      "equipo2": "Uruguay",
+      "fecha": "2026-06-16",
+      "hora": "0:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=dbkbrij2dq8i4bwppo0bsldoe_image-header_pEs_1780936332000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 16,
+      "equipo1": "Irán",
+      "equipo2": "Nueva Zelanda",
+      "fecha": "2026-06-16",
+      "hora": "3:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=exvxgjgeluswn2remp885cljr_image-header_pEs_1780565561000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 17,
+      "equipo1": "Francia",
+      "equipo2": "Senegal",
+      "fecha": "2026-06-16",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=hsd7r31grseut9gxvxfndh0o_image-header_pEs_1780564248000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 18,
+      "equipo1": "Irak",
+      "equipo2": "Noruega",
+      "fecha": "2026-06-17",
+      "hora": "0:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=e8qexgsxek14avwjxzu2tutrs_image-header_pEs_1780564474000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 19,
+      "equipo1": "Argentina",
+      "equipo2": "Argelia",
+      "fecha": "2026-06-17",
+      "hora": "3:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9u4gktw9i36yuztq2qs009j2a_image-header_pEs_1780564564000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 20,
+      "equipo1": "Austria",
+      "equipo2": "Jordania",
+      "fecha": "2026-06-17",
+      "hora": "6:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=4vqplusoa50e4ib89grjs4yg6_image-header_pEs_1780564640000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 21,
+      "equipo1": "Portugal",
+      "equipo2": "RD Congo",
+      "fecha": "2026-06-17",
+      "hora": "19:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8kx5siizfnpoo8i8ootgrjxsc_image-header_pEs_1780564782000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 22,
+      "equipo1": "Inglaterra",
+      "equipo2": "Croacia",
+      "fecha": "2026-06-17",
+      "hora": "22:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=dxdn3xb4h1osjeomi3bmo4fkh_image-header_pEs_1780564872000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 23,
+      "equipo1": "Ghana",
+      "equipo2": "Panamá",
+      "fecha": "2026-06-18",
+      "hora": "1:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=32yrhftz48oao9hr0jc823yin_image-header_pEs_1780564948000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 24,
+      "equipo1": "Uzbekistán",
+      "equipo2": "Colombia",
+      "fecha": "2026-06-18",
+      "hora": "4:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=99wlb7gjgqn5aanqx0wgza74g_image-header_pEs_1780565083000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 25,
+      "equipo1": "Chequia",
+      "equipo2": "Sudáfrica",
+      "fecha": "2026-06-18",
+      "hora": "18:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=bmssl89ukcpu5pnwf5yw91mg8_image-header_pEs_1780565143000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 26,
+      "equipo1": "Suiza",
+      "equipo2": "Bosnia y Herzegovina",
+      "fecha": "2026-06-18",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1b0kc7wwb65ftp9xz0cqn8keb_image-header_pEs_1780565745000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 27,
+      "equipo1": "Canadá",
+      "equipo2": "Catar",
+      "fecha": "2026-06-19",
+      "hora": "0:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=a8cgz0cqemhwg887nx8q40bpi_image-header_pEs_1780565815000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 28,
+      "equipo1": "México",
+      "equipo2": "Corea del Sur",
+      "fecha": "2026-06-19",
+      "hora": "3:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=b7islar65q2f5cuyuzdzqcobg_image-header_pEs_1780565920000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 29,
+      "equipo1": "Estados Unidos",
+      "equipo2": "Australia",
+      "fecha": "2026-06-19",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=5dvnd78p1ktxwkd42ez0b44vr_image-header_pEs_1780566382000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 30,
+      "equipo1": "Escocia",
+      "equipo2": "Marruecos",
+      "fecha": "2026-06-20",
+      "hora": "0:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=eubfsvz3c3tc0dl4errfigv8i_image-header_pEs_1780566443000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 31,
+      "equipo1": "Brasil",
+      "equipo2": "Haití",
+      "fecha": "2026-06-20",
+      "hora": "2:30",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=a7nn3e61r5dp4hs34gflcl1ih_image-header_pEs_1780566528000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 32,
+      "equipo1": "Turquía",
+      "equipo2": "Paraguay",
+      "fecha": "2026-06-20",
+      "hora": "5:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=91wbe9toyth4viu6rpdmwurj0_image-header_pEs_1780566609000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 33,
+      "equipo1": "Países Bajos",
+      "equipo2": "Suecia",
+      "fecha": "2026-06-20",
+      "hora": "19:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=d04pwk32px1uwbnyta7bhoe05_image-header_pEs_1780565717000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 34,
+      "equipo1": "Alemania",
+      "equipo2": "Costa de Marfil",
+      "fecha": "2026-06-20",
+      "hora": "22:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=po9yzmgtvf2nivpq25ts1a37_image-header_pEs_1780565805000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 35,
+      "equipo1": "Ecuador",
+      "equipo2": "Curazao",
+      "fecha": "2026-06-21",
+      "hora": "2:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=3of5iu3lcl09oi4sz0aj9asqx_image-header_pEs_1780565898000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 36,
+      "equipo1": "Túnez",
+      "equipo2": "Japón",
+      "fecha": "2026-06-21",
+      "hora": "6:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=c4lw8rskmiox883nunrgbv8ab_image-header_pEs_1780566487000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 37,
+      "equipo1": "España",
+      "equipo2": "Arabia Saudita",
+      "fecha": "2026-06-21",
+      "hora": "18:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=7sl80k92252zqlq9jpqr0d75i_image-header_pEs_1780566597000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 38,
+      "equipo1": "Bélgica",
+      "equipo2": "Irán",
+      "fecha": "2026-06-21",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=3i8jmc29h6dkhd1mvizyiq32l_image-header_pEs_1780566796000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 39,
+      "equipo1": "Uruguay",
+      "equipo2": "Cabo Verde",
+      "fecha": "2026-06-22",
+      "hora": "0:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=4aabk6qyksnxlmslwrd3fxoi5_image-header_pEs_1780566888000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 40,
+      "equipo1": "Nueva Zelanda",
+      "equipo2": "Egipto",
+      "fecha": "2026-06-22",
+      "hora": "3:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=l5wnsfae1pgp7fpyuk9tdba4_image-header_pEs_1780566993000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 41,
+      "equipo1": "Argentina",
+      "equipo2": "Austria",
+      "fecha": "2026-06-22",
+      "hora": "19:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=5buasesmum2xudd5rspa8jq9l_image-header_pEs_1780565182000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 42,
+      "equipo1": "Francia",
+      "equipo2": "Irak",
+      "fecha": "2026-06-22",
+      "hora": "23:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=bfze1x0nbju17z5bk03n4tpma_image-header_pEs_1780565294000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 43,
+      "equipo1": "Noruega",
+      "equipo2": "Senegal",
+      "fecha": "2026-06-23",
+      "hora": "2:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1fgg7xi4a9bdg0ye5yifkaypi_image-header_pEs_1780565353000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 44,
+      "equipo1": "Jordania",
+      "equipo2": "Argelia",
+      "fecha": "2026-06-23",
+      "hora": "5:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=4hk5c19iu0tjfdv5zorklu287_image-header_pEs_1780565413000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 45,
+      "equipo1": "Portugal",
+      "equipo2": "Uzbekistán",
+      "fecha": "2026-06-23",
+      "hora": "19:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=3dlel09rtha4w2ap8fvj8y7ct_image-header_pEs_1780565512000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 46,
+      "equipo1": "Inglaterra",
+      "equipo2": "Ghana",
+      "fecha": "2026-06-23",
+      "hora": "22:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=81xvfrwbfc6n7yb7u68wr09h3_image-header_pEs_1780565575000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 47,
+      "equipo1": "Panamá",
+      "equipo2": "Croacia",
+      "fecha": "2026-06-24",
+      "hora": "1:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=cud96gu3pa12du4wwujjhujc5_image-header_pEs_1780565680000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 48,
+      "equipo1": "Colombia",
+      "equipo2": "RD Congo",
+      "fecha": "2026-06-24",
+      "hora": "4:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9he2y7fyvaaa1q9di1xl9kpfj_image-header_pEs_1780566107000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 49,
+      "equipo1": "Suiza",
+      "equipo2": "Canadá",
+      "fecha": "2026-06-24",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=3l7pl9dyjxy5gtudigf5l3wpw_image-header_pEs_1780565259000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 50,
+      "equipo1": "Bosnia y Herzegovina",
+      "equipo2": "Catar",
+      "fecha": "2026-06-24",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=6n0wunihgb6o4zeeuvm3tng63_image-header_pEs_1780565195000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 51,
+      "equipo1": "Marruecos",
+      "equipo2": "Haití",
+      "fecha": "2026-06-25",
+      "hora": "0:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=66t7p5vch2mjqnmqc76vp6gi9_image-header_pEs_1780565310000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 52,
+      "equipo1": "Escocia",
+      "equipo2": "Brasil",
+      "fecha": "2026-06-25",
+      "hora": "0:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=8cv6dqrakkasgqcceum6oqmlo_image-header_pEs_1780565359000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 53,
+      "equipo1": "Sudáfrica",
+      "equipo2": "Corea del Sur",
+      "fecha": "2026-06-25",
+      "hora": "3:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=vjlz0d2991edzw3n32zehqos_image-header_pEs_1780565414000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 54,
+      "equipo1": "Chequia",
+      "equipo2": "México",
+      "fecha": "2026-06-25",
+      "hora": "3:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=vjlz0d2991edzw3n32zehqos_image-header_pEs_1780565414000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 55,
+      "equipo1": "Curazao",
+      "equipo2": "Costa de Marfil",
+      "fecha": "2026-06-25",
+      "hora": "22:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=15haepa5xckn9vjqpivi5eu3y_image-header_pEs_1780567166000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 56,
+      "equipo1": "Ecuador",
+      "equipo2": "Alemania",
+      "fecha": "2026-06-25",
+      "hora": "22:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=es6lixwkdvbwixhfd5rx60g0m_image-header_pEs_1780567246000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 57,
+      "equipo1": "Túnez",
+      "equipo2": "Países Bajos",
+      "fecha": "2026-06-26",
+      "hora": "1:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=ehk90r7w63sbe484qa7a3bh7s_image-header_pEs_1780567336000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 58,
+      "equipo1": "Japón",
+      "equipo2": "Suecia",
+      "fecha": "2026-06-26",
+      "hora": "1:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=5e2yalq7hr6uu68mkzq7fscd9_image-header_pEs_1780567404000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 59,
+      "equipo1": "Turquía",
+      "equipo2": "Estados Unidos",
+      "fecha": "2026-06-26",
+      "hora": "4:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=62gvgzgcxffh7vkdqbz7a2mmr_image-header_pEs_1780565636000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 60,
+      "equipo1": "Paraguay",
+      "equipo2": "Australia",
+      "fecha": "2026-06-26",
+      "hora": "4:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=3y8tdi4kcj7ozoruogsaik54t_image-header_pEs_1780565535000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 61,
+      "equipo1": "Noruega",
+      "equipo2": "Francia",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=cpzqypwqtujgv2t8x6cpfvker_image-header_pEs_1780566534000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 62,
+      "equipo1": "Senegal",
+      "equipo2": "Irak",
+      "fecha": "2026-06-26",
+      "hora": "21:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=7dlb4rna5jkacs0d5h7wuep8r_image-header_pEs_1780566725000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 63,
+      "equipo1": "Cabo Verde",
+      "equipo2": "Arabia Saudita",
+      "fecha": "2026-06-27",
+      "hora": "2:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=cb0r5et8agjx8yz143fs49ymy_image-header_pEs_1780567500000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 64,
+      "equipo1": "Uruguay",
+      "equipo2": "España",
+      "fecha": "2026-06-27",
+      "hora": "2:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=90awez8fgncme6f7thqvu0oez_image-header_pEs_1780567585000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 65,
+      "equipo1": "Nueva Zelanda",
+      "equipo2": "Bélgica",
+      "fecha": "2026-06-27",
+      "hora": "5:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=ctiwvbyhu1x30g0txal8q2ujr_image-header_pEs_1780567665000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 66,
+      "equipo1": "Egipto",
+      "equipo2": "Irán",
+      "fecha": "2026-06-27",
+      "hora": "5:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=254wvk46kieuxqr8n4p2su99m_image-header_pEs_1780567716000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 67,
+      "equipo1": "Panamá",
+      "equipo2": "Inglaterra",
+      "fecha": "2026-06-27",
+      "hora": "23:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=9d79iz7vtvnho2sjd9vxuj0eu_image-header_pEs_1780566805000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 68,
+      "equipo1": "Croacia",
+      "equipo2": "Ghana",
+      "fecha": "2026-06-27",
+      "hora": "23:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=dbpb85je4wwk762m9s8rxl0wc_image-header_pEs_1780566884000",
+      "streams": "DAZN2"
+    },
+    {
+      "id": 69,
+      "equipo1": "Colombia",
+      "equipo2": "Portugal",
+      "fecha": "2026-06-28",
+      "hora": "1:30",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=7z5hknj9r6yx673sg8gcnuh3c_image-header_pEs_1780567096000",
+      "streams": "DAZN1"
+    },
+    {
+      "id": 70,
+      "equipo1": "RD Congo",
+      "equipo2": "Uzbekistán",
+      "fecha": "2026-06-28",
+      "hora": "1:30",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=5d66vv51peah2eo84kjbx163w_image-header_pEs_1780567199000",
+      "streams": "DAZN2"
+    },
+    {
+      "id": 71,
+      "equipo1": "Argelia",
+      "equipo2": "Austria",
+      "fecha": "2026-06-28",
+      "hora": "4:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=orujl8k7lftadwcwyqk55i68_image-header_pEs_1780567322000",
+      "streams": "DAZN2"
+    },
+    {
+      "id": 72,
+      "equipo1": "Jordania",
+      "equipo2": "Argentina",
+      "fecha": "2026-06-28",
+      "hora": "4:00",
+      "imagen": "https://image.discovery.indazn.com/ca/v2/ca/image?id=e5a00m1fxdvc0tx6mramp0xmt_image-header_pEs_1780567478000",
+      "streams": "DAZN1"
+    }
+  ]
+}
