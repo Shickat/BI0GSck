@@ -1,0 +1,2105 @@
+[
+  {
+    "category": "SHICKAT ACESTREAM",
+    "id": "MOVISTAR+",
+    "name": "MOVISTAR +",
+    "languages": [
+      "es"
+    ],
+    "link": "67121cbb722b88ce4489717e9a87a26f60184ec9",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "open",
+        "value": "acestream://67121cbb722b88ce4489717e9a87a26f60184ec9",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "67121cbb722b88ce4489717e9a87a26f60184ec9",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "SHICKAT ACESTREAM",
+    "id": "MOVISTARLALIGA",
+    "name": "MOVISTAR LALIGA",
+    "languages": [
+      "es"
+    ],
+    "link": "0b5f802f2de6488b4023d0f05195486e19d81ed7",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "open",
+        "value": "acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "0b5f802f2de6488b4023d0f05195486e19d81ed7",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "SHICKAT ACESTREAM",
+    "id": "DAZNLALIGA",
+    "name": "DAZN LALIGA",
+    "languages": [
+      "es"
+    ],
+    "link": "3097d7e7ff0fe414711ee067a841168b6f5671cb",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "open",
+        "value": "acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "3097d7e7ff0fe414711ee067a841168b6f5671cb",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "SHICKAT ACESTREAM",
+    "id": "LALIGAHYPERMOTION",
+    "name": "LALIGA HYPERMOTION",
+    "languages": [
+      "es"
+    ],
+    "link": "135c420f704d717b8913b2a66b2722fd6b2c127c",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "open",
+        "value": "acestream://135c420f704d717b8913b2a66b2722fd6b2c127c",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "135c420f704d717b8913b2a66b2722fd6b2c127c",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "SHICKAT ACESTREAM",
+    "id": "DAZNF1",
+    "name": "DAZN F1",
+    "languages": [
+      "es"
+    ],
+    "link": "ee4646aae30d862e0d9d453998a344a60aaa7cde",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "open",
+        "value": "acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "ee4646aae30d862e0d9d453998a344a60aaa7cde",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "SHICKAT ACESTREAM",
+    "id": "DAZNMOTOGP",
+    "name": "DAZN MOTOGP",
+    "languages": [
+      "es"
+    ],
+    "link": "2a05a020dfe97aaa0665bb7551022868b2a88b36",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "open",
+        "value": "acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "2a05a020dfe97aaa0665bb7551022868b2a88b36",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "SHICKAT ACESTREAM",
+    "id": "EVENTUAL",
+    "name": "EVENTUAL",
+    "languages": [
+      "es"
+    ],
+    "link": "79c9dbec46dfa7de3acea6e5e05118e17dc0f065",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "open",
+        "value": "acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "79c9dbec46dfa7de3acea6e5e05118e17dc0f065",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "NEW ERA",
+    "name": "NEW ERA",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "fr",
+      "de",
+      "ru",
+      "pl"
+    ],
+    "link": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link",
+    "linkUrl": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "ELCANO",
+    "name": "ELCANO",
+    "languages": [
+      "es"
+    ],
+    "link": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/",
+    "linkUrl": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "ACESTREAM UI",
+    "name": "ACESTREAM UI",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "fr",
+      "de",
+      "ru",
+      "pl"
+    ],
+    "link": "https://acestreamui.app",
+    "linkUrl": "https://acestreamui.app",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://acestreamui.app",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://acestreamui.app",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "DVB P",
+    "name": "DVB P",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "fr",
+      "ru",
+      "pl",
+      "zh"
+    ],
+    "link": "https://dvb-p.com/channels",
+    "linkUrl": "https://dvb-p.com/channels",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://dvb-p.com/channels",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://dvb-p.com/channels",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "MISTERCHIRE",
+    "name": "MISTERCHIRE",
+    "languages": [
+      "es"
+    ],
+    "link": "https://www.misterchire.com",
+    "linkUrl": "https://www.misterchire.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.misterchire.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.misterchire.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "CIRIACO",
+    "name": "CIRIACO",
+    "languages": [
+      "es"
+    ],
+    "link": "https://ciriaco.netlify.app",
+    "linkUrl": "https://ciriaco.netlify.app",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://ciriaco.netlify.app",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://ciriaco.netlify.app",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "PLATINSPORT",
+    "name": "PLATINSPORT",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "de",
+      "pt",
+      "fr",
+      "ru",
+      "pl",
+      "tr",
+      "ua",
+      "nl"
+    ],
+    "link": "https://platinsport.com",
+    "linkUrl": "https://platinsport.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://platinsport.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://platinsport.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "OVERTAKEFANS",
+    "name": "OVERTAKEFANS",
+    "languages": [
+      "de"
+    ],
+    "link": "https://overtakefans.com/f1-live-stream/sky-sport-f1-live-stream-via-ace-player",
+    "linkUrl": "https://overtakefans.com/f1-live-stream/sky-sport-f1-live-stream-via-ace-player",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://overtakefans.com/f1-live-stream/sky-sport-f1-live-stream-via-ace-player",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://overtakefans.com/f1-live-stream/sky-sport-f1-live-stream-via-ace-player",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "MYFOOTBALL",
+    "name": "MYFOOTBALL",
+    "languages": [
+      "es",
+      "ru",
+      "uk",
+      "pt",
+      "de",
+      "nl",
+      "fr"
+    ],
+    "link": "https://myfootball.pw",
+    "linkUrl": "https://myfootball.pw",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://myfootball.pw",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://myfootball.pw",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ACESTREAM",
+    "id": "PIMPLETV",
+    "name": "PIMPLETV",
+    "languages": [
+      "ru"
+    ],
+    "link": "https://www.pimpletv.ru",
+    "linkUrl": "https://www.pimpletv.ru",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.pimpletv.ru",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.pimpletv.ru",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "BUSCADORES ACESTREAM",
+    "id": "Search Ace Streams",
+    "name": "Search Ace Streams",
+    "languages": [],
+    "link": "https://search-ace.stream",
+    "linkUrl": "https://search-ace.stream",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://search-ace.stream",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://search-ace.stream",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "BUSCADORES ACESTREAM",
+    "id": "AceStream ID",
+    "name": "AceStream ID",
+    "languages": [],
+    "link": "https://acestreamid.com",
+    "linkUrl": "https://acestreamid.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://acestreamid.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://acestreamid.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "FCTV33",
+    "name": "FCTV33",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "ja",
+      "zh",
+      "br",
+      "pt"
+    ],
+    "link": "https://www.fctv33.site",
+    "linkUrl": "https://www.fctv33.site",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.fctv33.site",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.fctv33.site",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "MADPLAY77",
+    "name": "MADPLAY77",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "ja",
+      "zh",
+      "br",
+      "pt"
+    ],
+    "link": "https://nickgt20.iasbwindwtgtapony.sbs",
+    "linkUrl": "https://nickgt20.iasbwindwtgtapony.sbs",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://nickgt20.iasbwindwtgtapony.sbs",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://nickgt20.iasbwindwtgtapony.sbs",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "SUPERABBIT77",
+    "name": "SUPERABBIT77",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "ja",
+      "zh",
+      "br",
+      "pt"
+    ],
+    "link": "https://nadiaajvr.69ddfriendly67c7dyheld.shop",
+    "linkUrl": "https://nadiaajvr.69ddfriendly67c7dyheld.shop",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://nadiaajvr.69ddfriendly67c7dyheld.shop",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://nadiaajvr.69ddfriendly67c7dyheld.shop",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "RBSPORTS77",
+    "name": "RBSPORTS77",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "ja",
+      "zh",
+      "br",
+      "pt"
+    ],
+    "link": "https://www.rbsports77.mom",
+    "linkUrl": "https://www.rbsports77.mom",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.rbsports77.mom",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.rbsports77.mom",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "JEINZ MACIAS",
+    "name": "JEINZ MACIAS",
+    "languages": [
+      "es"
+    ],
+    "link": "https://ad.kedaiaksesorikeretanearme.my",
+    "linkUrl": "https://ad.kedaiaksesorikeretanearme.my",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://ad.kedaiaksesorikeretanearme.my",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://ad.kedaiaksesorikeretanearme.my",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "SPORTSBAY",
+    "name": "SPORTSBAY",
+    "languages": [
+      "es",
+      "en",
+      "br",
+      "pt",
+      "it",
+      "fr",
+      "de",
+      "tr"
+    ],
+    "link": "https://www.sportsbay.dk",
+    "linkUrl": "https://www.sportsbay.dk",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.sportsbay.dk",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.sportsbay.dk",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "SPORT +",
+    "name": "SPORT +",
+    "languages": [
+      "es"
+    ],
+    "link": "https://es.sportplus.watch",
+    "linkUrl": "https://es.sportplus.watch",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://es.sportplus.watch",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://es.sportplus.watch",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "SPORTZ X",
+    "name": "SPORTZ X",
+    "languages": [
+      "es"
+    ],
+    "link": "https://sportzx.cc/sportzx-live",
+    "linkUrl": "https://sportzx.cc/sportzx-live",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://sportzx.cc/sportzx-live",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://sportzx.cc/sportzx-live",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "CAMEL LIVE",
+    "name": "CAMEL LIVE",
+    "languages": [
+      "es",
+      "en",
+      "in",
+      "zh",
+      "ar"
+    ],
+    "link": "https://www.camel1.tv",
+    "linkUrl": "https://www.camel1.tv",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.camel1.tv",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.camel1.tv",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "PPV",
+    "name": "PPV",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "link": "https://ppv.to",
+    "linkUrl": "https://ppv.to",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://ppv.to",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://ppv.to",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "NTV",
+    "name": "NTV",
+    "languages": [
+      "es"
+    ],
+    "link": "https://ntv.cx",
+    "linkUrl": "https://ntv.cx",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://ntv.cx",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://ntv.cx",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "LIVE TV",
+    "name": "LIVE TV",
+    "languages": [
+      "es",
+      "ru",
+      "pl",
+      "fr",
+      "it",
+      "sr",
+      "pt"
+    ],
+    "link": "https://livetv.sx",
+    "linkUrl": "https://livetv.sx",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://livetv.sx",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://livetv.sx",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "SOSPLAY",
+    "name": "SOSPLAY",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "fr",
+      "nl",
+      "it",
+      "tr",
+      "de"
+    ],
+    "link": "https://sosplay.net",
+    "linkUrl": "https://sosplay.net",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://sosplay.net",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://sosplay.net",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "DADDY LIVE",
+    "name": "DADDY LIVE",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "fr",
+      "pt",
+      "de",
+      "sr",
+      "ar",
+      "tr",
+      "br",
+      "he",
+      "it"
+    ],
+    "link": "https://dlhd.st",
+    "linkUrl": "https://dlhd.st",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://dlhd.st",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://dlhd.st",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "STREAMED",
+    "name": "STREAMED",
+    "languages": [
+      "en"
+    ],
+    "link": "https://strmd.link",
+    "linkUrl": "https://strmd.link",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://strmd.link",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://strmd.link",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "STREAMTP10",
+    "name": "STREAMTP10",
+    "languages": [
+      "es",
+      "en",
+      "br"
+    ],
+    "link": "https://streamtp10.com",
+    "linkUrl": "https://streamtp10.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://streamtp10.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://streamtp10.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "STRUMYK",
+    "name": "STRUMYK",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "fr",
+      "pt",
+      "de",
+      "sr",
+      "ar",
+      "tr",
+      "br",
+      "he",
+      "it"
+    ],
+    "link": "https://strumyk.uk",
+    "linkUrl": "https://strumyk.uk",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://strumyk.uk",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://strumyk.uk",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "ANTENA SPORT",
+    "name": "ANTENA SPORT",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "fr",
+      "pt",
+      "de",
+      "br",
+      "ru",
+      "tr",
+      "sr",
+      "ua",
+      "he"
+    ],
+    "link": "https://antenasport.top",
+    "linkUrl": "https://antenasport.top",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://antenasport.top",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://antenasport.top",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "TELE DEPORTES",
+    "name": "TELE DEPORTES",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "de",
+      "fr",
+      "pt",
+      "br",
+      "tr",
+      "he",
+      "nl",
+      "it",
+      "pl",
+      "sr",
+      "ru"
+    ],
+    "link": "https://teledeportes.click",
+    "linkUrl": "https://teledeportes.click",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://teledeportes.click",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://teledeportes.click",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "NOWEVENTS",
+    "name": "NOWEVENTS",
+    "languages": [
+      "es",
+      "en",
+      "fr",
+      "de",
+      "uk",
+      "it",
+      "nl",
+      "pt",
+      "tr"
+    ],
+    "link": "https://nowfutbol.pages.dev",
+    "linkUrl": "https://nowfutbol.pages.dev",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://nowfutbol.pages.dev",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://nowfutbol.pages.dev",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "TUDEPORTE",
+    "name": "TUDEPORTE",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "fr",
+      "de",
+      "br",
+      "nl",
+      "tr"
+    ],
+    "link": "https://tudeporte.pro",
+    "linkUrl": "https://tudeporte.pro",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://tudeporte.pro",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://tudeporte.pro",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "VEGETA TV",
+    "name": "VEGETA TV",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "fr"
+    ],
+    "link": "http://vegetatv.duckdns.org",
+    "linkUrl": "http://vegetatv.duckdns.org",
+    "actions": [
+      {
+        "type": "open",
+        "value": "http://vegetatv.duckdns.org",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "http://vegetatv.duckdns.org",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "FUTBOL LIBE",
+    "name": "FUTBOL LIBRE",
+    "languages": [
+      "es",
+      "en",
+      "tr",
+      "it"
+    ],
+    "link": "https://futbollibrefullhd.com/",
+    "linkUrl": "https://futbollibrefullhd.com/",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://futbollibrefullhd.com/",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://futbollibrefullhd.com/",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "DEPORTE LIBRE",
+    "name": "DEPORTE LIBRE",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "de",
+      "fr",
+      "sr",
+      "tr",
+      "pt",
+      "pl",
+      "nl",
+      "it"
+    ],
+    "link": "https://deporte-libre.click/",
+    "linkUrl": "https://deporte-libre.click/",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://deporte-libre.click/",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://deporte-libre.click/",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "ROJADIRECTATVONLINE",
+    "name": "ROJADIRECTATVONLINE",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "nl",
+      "fr",
+      "de",
+      "pt",
+      "br"
+    ],
+    "link": "https://www.rdtvonline.com",
+    "linkUrl": "https://www.rdtvonline.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.rdtvonline.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.rdtvonline.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "FUTBOL LIBRE HD",
+    "name": "FUTBOL LIBRE HD",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "link": "https://www.futbollibre2.com",
+    "linkUrl": "https://www.futbollibre2.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.futbollibre2.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.futbollibre2.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "TELEXTREMA",
+    "name": "TELEXTREMA",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "link": "https://www.telextrema2.com",
+    "linkUrl": "https://www.telextrema2.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.telextrema2.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.telextrema2.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "TVLIBREE",
+    "name": "TVLIBREE",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "link": "https://tvlibree.com",
+    "linkUrl": "https://tvlibree.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://tvlibree.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://tvlibree.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "PELOTA LIBRE",
+    "name": "PELOTA LIBRE",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "de",
+      "fr"
+    ],
+    "link": "https://pelotalibretv.su",
+    "linkUrl": "https://pelotalibretv.su",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://pelotalibretv.su",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://pelotalibretv.su",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "TV POR INTERNET",
+    "name": "TV POR INTERNET",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "link": "https://www.tvporinternet2.com",
+    "linkUrl": "https://www.tvporinternet2.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.tvporinternet2.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.tvporinternet2.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "ACEZTRIMS",
+    "name": "ACEZTRIMS",
+    "languages": [
+      "en"
+    ],
+    "link": "https://aceztrims.pages.dev",
+    "linkUrl": "https://aceztrims.pages.dev",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://aceztrims.pages.dev",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://aceztrims.pages.dev",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "STREAMSGATE",
+    "name": "STREAMSGATE",
+    "languages": [
+      "es"
+    ],
+    "link": "https://streamingon.org",
+    "linkUrl": "https://streamingon.org",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://streamingon.org",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://streamingon.org",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "SPORTSURGE",
+    "name": "SPORTSURGE",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "tr",
+      "de",
+      "fr"
+    ],
+    "link": "https://sportsurge100.is",
+    "linkUrl": "https://sportsurge100.is",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://sportsurge100.is",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://sportsurge100.is",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "FOOTYBYTE",
+    "name": "FOOTYBYTE",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "tr",
+      "de",
+      "fr"
+    ],
+    "link": "https://www.footybite.to",
+    "linkUrl": "https://www.footybite.to",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.footybite.to",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.footybite.to",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "PEPPER LIVE",
+    "name": "PEPPER LIVE",
+    "languages": [
+      "es",
+      "en",
+      "pt",
+      "it"
+    ],
+    "link": "https://www.pepperlive.info",
+    "linkUrl": "https://www.pepperlive.info",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.pepperlive.info",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.pepperlive.info",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "TOTALSPORTEK",
+    "name": "TOTALSPORTEK",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "tr",
+      "de",
+      "fr"
+    ],
+    "link": "https://totalsportek.army",
+    "linkUrl": "https://totalsportek.army",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://totalsportek.army",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://totalsportek.army",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "NBABITE",
+    "name": "NBABITE",
+    "languages": [
+      "en"
+    ],
+    "link": "https://www.nbabite.is",
+    "linkUrl": "https://www.nbabite.is",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.nbabite.is",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.nbabite.is",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "NFLBITE",
+    "name": "NFLBITE",
+    "languages": [
+      "en"
+    ],
+    "link": "https://www.nflbite.is",
+    "linkUrl": "https://www.nflbite.is",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.nflbite.is",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.nflbite.is",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "GOLUCHAS",
+    "name": "GOLUCHAS",
+    "languages": [
+      "es"
+    ],
+    "link": "https://goluchitas.com",
+    "linkUrl": "https://goluchitas.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://goluchitas.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://goluchitas.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "STREAMEAST",
+    "name": "STREAMEAST",
+    "languages": [
+      "es",
+      "en",
+      "it",
+      "tr",
+      "de",
+      "fr"
+    ],
+    "link": "https://streameast100.is",
+    "linkUrl": "https://streameast100.is",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://streameast100.is",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://streameast100.is",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "LA14HD",
+    "name": "LA14HD",
+    "languages": [
+      "es",
+      "en",
+      "br",
+      "pt",
+      "de",
+      "nl",
+      "fr"
+    ],
+    "link": "https://la14hd.com",
+    "linkUrl": "https://la14hd.com",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://la14hd.com",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://la14hd.com",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "LIVE STREAMS",
+    "name": "LIVE STREAMS",
+    "languages": [
+      "es",
+      "en",
+      "fr",
+      "pt",
+      "de",
+      "tr",
+      "sr",
+      "pl"
+    ],
+    "link": "https://livestreams.click",
+    "linkUrl": "https://livestreams.click",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://livestreams.click",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://livestreams.click",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "ONLINE",
+    "id": "BOLALOCA",
+    "name": "BOLALOCA",
+    "languages": [
+      "es",
+      "en",
+      "uk",
+      "fr",
+      "de",
+      "it",
+      "nl",
+      "pt"
+    ],
+    "link": "https://bolaloca.my",
+    "linkUrl": "https://bolaloca.my",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://bolaloca.my",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://bolaloca.my",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "PROGRAMACION",
+    "id": "LALIGA",
+    "name": "LALIGA",
+    "languages": [
+      "es"
+    ],
+    "link": "https://www.laliga.com/donde-ver-laliga-easports",
+    "linkUrl": "https://www.laliga.com/donde-ver-laliga-easports",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.laliga.com/donde-ver-laliga-easports",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.laliga.com/donde-ver-laliga-easports",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "PROGRAMACION",
+    "id": "MOVISTAR +",
+    "name": "MOVISTAR +",
+    "languages": [
+      "es"
+    ],
+    "link": "https://www.movistarplus.es/programacion-tv",
+    "linkUrl": "https://www.movistarplus.es/programacion-tv",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.movistarplus.es/programacion-tv",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.movistarplus.es/programacion-tv",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "PROGRAMACION",
+    "id": "FUTBOL EN LA TV",
+    "name": "FUTBOL EN LA TV",
+    "languages": [
+      "es"
+    ],
+    "link": "https://www.futbolenlatv.es",
+    "linkUrl": "https://www.futbolenlatv.es",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.futbolenlatv.es",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.futbolenlatv.es",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "PROGRAMACION",
+    "id": "TV GUIA",
+    "name": "TV GUIA",
+    "languages": [
+      "es"
+    ],
+    "link": "https://www.tvguia.es",
+    "linkUrl": "https://www.tvguia.es",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.tvguia.es",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.tvguia.es",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "PROGRAMACION",
+    "id": "FUTBOL TV",
+    "name": "FUTBOL TV",
+    "languages": [
+      "es"
+    ],
+    "link": "https://www.futboltv.info",
+    "linkUrl": "https://www.futboltv.info",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.futboltv.info",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.futboltv.info",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "REPETICIONES",
+    "id": "SPORT VIDEO",
+    "name": "SPORT VIDEO",
+    "languages": [
+      "en"
+    ],
+    "link": "https://sport-video.org.ua",
+    "linkUrl": "https://sport-video.org.ua",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://sport-video.org.ua",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://sport-video.org.ua",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "REPETICIONES",
+    "id": "FULL MATCH SPORTS",
+    "name": "FULL MATCH SPORTS",
+    "languages": [
+      "en"
+    ],
+    "link": "https://fullmatchsports.cc",
+    "linkUrl": "https://fullmatchsports.cc",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://fullmatchsports.cc",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://fullmatchsports.cc",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "REPETICIONES",
+    "id": "FULLMATCH REPLAY",
+    "name": "FULLMATCH REPLAY",
+    "languages": [
+      "en"
+    ],
+    "link": "https://www.fullmatch-replay.org",
+    "linkUrl": "https://www.fullmatch-replay.org",
+    "actions": [
+      {
+        "type": "open",
+        "value": "https://www.fullmatch-replay.org",
+        "label": "Abrir",
+        "icon": "fa-solid fa-arrow-up-right-from-square"
+      },
+      {
+        "type": "copy",
+        "value": "https://www.fullmatch-replay.org",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "DESCARGA",
+    "name": "DESCARGA LA APP",
+    "languages": [],
+    "link": "Descarga aqui (APK Mylinkpaste v4.4)",
+    "linkUrl": "https://34560cd2.aaapk.pages.dev/MylinkPaste-v4.4.apk",
+    "actions": []
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "ELCANO-MLP",
+    "name": "ELCANO",
+    "languages": [
+      "es"
+    ],
+    "link": "681fc74c1833d17ffd9a9c59",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "681fc74c1833d17ffd9a9c59",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "MAMANDURRIAS-MLP",
+    "name": "MAMANDURRIAS",
+    "languages": [
+      "es"
+    ],
+    "link": "682cb7103451b27a40bc9aa2",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "682cb7103451b27a40bc9aa2",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "SHICKAT-MLP",
+    "name": "SHICKAT",
+    "languages": [
+      "es"
+    ],
+    "link": "69ad7d19d05ee80b5cd88ca4",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "69ad7d19d05ee80b5cd88ca4",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "TOKYO-MLP",
+    "name": "TOKYO",
+    "languages": [
+      "es"
+    ],
+    "link": "695d5309d05ee80b5cd7efad",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "695d5309d05ee80b5cd7efad",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "ICASTRESANA-MLP",
+    "name": "ICASTRESANA",
+    "languages": [
+      "es"
+    ],
+    "link": "69618ec6d05ee80b5cd7f636",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "69618ec6d05ee80b5cd7f636",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "EUPHORBIA HELIOSCOPIA-MLP",
+    "name": "EUPHORBIA HELIOSCOPIA",
+    "languages": [
+      "es"
+    ],
+    "link": "6983264cd05ee80b5cd83776",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "6983264cd05ee80b5cd83776",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "NANOBOX-MLP",
+    "name": "NANOBOX",
+    "languages": [
+      "es"
+    ],
+    "link": "68ce6e8c3451b27a40bca302",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "68ce6e8c3451b27a40bca302",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "NANOSTREAMS-MLP",
+    "name": "NANOSTREAMS",
+    "languages": [
+      "es"
+    ],
+    "link": "68a975d43451b27a40bca0b3",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "68a975d43451b27a40bca0b3",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "MATTEO-MLP",
+    "name": "MATTEO",
+    "languages": [
+      "es"
+    ],
+    "link": "68b1dfe33451b27a40bca11d",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "68b1dfe33451b27a40bca11d",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "ORDOÑEZ-MLP",
+    "name": "ORDOÑEZ",
+    "languages": [
+      "es"
+    ],
+    "link": "694a9cd6d05ee80b5cd7eb19",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "694a9cd6d05ee80b5cd7eb19",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  },
+  {
+    "category": "MYLINKPASTE CODIGOS",
+    "id": "CULOGARTO-MLP",
+    "name": "CULOGARTO",
+    "languages": [
+      "es"
+    ],
+    "link": "69824a98d05ee80b5cd8368e",
+    "linkUrl": null,
+    "actions": [
+      {
+        "type": "copy",
+        "value": "69824a98d05ee80b5cd8368e",
+        "label": "Copiar",
+        "icon": "fa-solid fa-copy"
+      }
+    ]
+  }
+]
